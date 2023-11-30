@@ -59,7 +59,7 @@ function App() {
       </div>
 
       <div className="mt-36 flex flex-col sm:flex-row">
-        <img className="h-1/4 w-1/4 ml-4 sm:ml-28 rounded-3xl sm:w-96 sm:h-96" src="/assets/profile-pic-4_Mirror.png" alt="" />
+        <img className="h-1/4 w-1/4 ml-4 sm:ml-28 rounded-3xl sm:w-96 sm:h-96" src="assets/profile-pic-4_Mirror.png" alt="" />
         <div className="text-center ml-4 sm:ml-8">
           <div className="box-container flex ">
             <div className="box border border-black mr-4 sm:mr-7 ml-4 sm:ml-16 p-8 rounded-3xl flex flex-col items-center">
