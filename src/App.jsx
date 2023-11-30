@@ -36,7 +36,7 @@ function App() {
       <div id="home" className="mt-8 sm:mt-36 flex flex-col sm:flex-row justify-center items-center">
         <div className="mb-8 sm:mb-0">
           <img
-            src="/assets/profile-pic-3.png"
+            src="https://th.bing.com/th/id/OIP.3IOe0fIoSQVxK32xHu3DDgHaET?rs=1&pid=ImgDetMain"
             alt=""
             className="rounded-full w-48 h-48 sm:w-96 sm:h-96 object-cover"
           />
