@@ -59,7 +59,7 @@ function App() {
       </div>
 
       <div className="mt-36 flex flex-col sm:flex-row">
-        <img className="h-1/4 w-1/4 ml-4 sm:ml-28 rounded-3xl sm:w-96 sm:h-96" src="/assets/profile-pic-4_Mirror.png" alt="" />
+        <img className="h-1/4 w-1/4 ml-4 sm:ml-28 rounded-3xl sm:w-96 sm:h-96" src="./profile-pic-4_Mirror.png" alt="" />
         <div className="text-center ml-4 sm:ml-8">
           <div className="box-container flex ">
             <div className="box border border-black mr-4 sm:mr-7 ml-4 sm:ml-16 p-8 rounded-3xl flex flex-col items-center">
@@ -144,7 +144,7 @@ function App() {
       <div className="flex flex-col sm:flex-row">
         <div className="card w-full sm:w-1/2 bg-base-100 shadow-xl ml-4 sm:ml-6 mr-4 sm:mr-6 mt-4 sm:mt-7">
           <figure>
-            <img src="/assets/hero_gadget_pic.png" className="rounded-xl" style={{ width: '100%' }} alt="Hero Gadget" />
+            <img src="./hero_gadget_pic.png" className="rounded-xl" style={{ width: '100%' }} alt="Hero Gadget" />
           </figure>
           <div className="card-body items-center text-center">
             <h2 className="card-title">Hero Gadget</h2>
@@ -158,7 +158,7 @@ function App() {
 
         <div className="card w-full sm:w-1/2 bg-base-100 shadow-xl ml-4 sm:ml-6 mr-4 sm:mr-6 mt-4 sm:mt-7">
           <figure>
-            <img src="/assets/chef_site_pic.png" className="rounded-xl" style={{ width: '100%' }} alt="MR. Chef" />
+            <img src="./chef_site_pic.png" className="rounded-xl" style={{ width: '100%' }} alt="MR. Chef" />
           </figure>
           <div className="card-body items-center text-center">
             <h2 className="card-title">MR. Chef</h2>
@@ -174,7 +174,7 @@ function App() {
       <div className="flex flex-col sm:flex-row">
         <div className="card w-full sm:w-1/2 bg-base-100 shadow-xl ml-4 sm:ml-6 mr-4 sm:mr-6 mt-4 sm:mt-7">
           <figure>
-            <img src="/assets/Ema_john_pic.png" className="rounded-xl" style={{ width: '100%' }} alt="Ema John" />
+            <img src="./Ema_john_pic.png" className="rounded-xl" style={{ width: '100%' }} alt="Ema John" />
           </figure>
           <div className="card-body items-center text-center">
             <h2 className="card-title">Ema John</h2>
@@ -188,7 +188,7 @@ function App() {
 
         <div className="card w-full sm:w-1/2 bg-base-100 shadow-xl ml-4 sm:ml-6 mr-4 sm:mr-6 mt-4 sm:mt-7">
           <figure>
-            <img src="/assets/toy_titans_pic.png" className="rounded-xl" style={{ width: '100%' }} alt="Toy Titans" />
+            <img src="./toy_titans_pic.png" className="rounded-xl" style={{ width: '100%' }} alt="Toy Titans" />
           </figure>
           <div className="card-body items-center text-center">
             <h2 className="card-title">Toy Titans</h2>
