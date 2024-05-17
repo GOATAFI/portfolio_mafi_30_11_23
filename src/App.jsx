@@ -199,7 +199,7 @@ function App() {
             </div>
           </div>
         </div>
-      </div>
+      </div> 
 
       <div id="contact" className='justify-center text-center mt-8 sm:mt-40 mb-7'>
         <p className='text-gray-500'>Get in touch</p>
