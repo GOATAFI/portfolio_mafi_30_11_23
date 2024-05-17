@@ -46,8 +46,7 @@ function App() {
           <p className='text-3xl sm:text-6xl mt-2 sm:mt-4 font-extrabold'>Nahid Parvez Mafi</p>
           <p className='text-xl sm:text-3xl text-gray-600 mt-2 sm:mt-6 font-bold'>Junior Frontend Developer</p>
           <div className='mt-4 sm:mt-8'>
-
-            <button className="btn mr-4 sm:mr-8 rounded-md sm:rounded-3xl"> <a href="https://github.com/GOATAFI/nahid_cv_30_11_23/blob/main/resume-mafi-portfolio.pdf?raw=true"> Download CV </a></button>
+            <button className="btn mr-4 sm:mr-8 rounded-md sm:rounded-3xl"> <a href="https://github.com/GOATAFI/portfolio_mafi_30_11_23/blob/main/src/resume-mafi-portfolio.pdf?raw=true"> Download CV </a></button>
             <Link to="contact" smooth={true} duration={1000} > <button className="btn btn-neutral rounded-md sm:rounded-3xl">Contact Info</button> </Link>
           </div>
         </div>
